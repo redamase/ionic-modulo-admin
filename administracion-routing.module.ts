@@ -2,7 +2,7 @@
 
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { AdministracionComponent } from './administracion.component';
+import { AdministracionComponent } from './administracion';
 
 const routes: Routes = [
   { path: '', component: AdministracionComponent }, // Define las rutas según tus necesidades
