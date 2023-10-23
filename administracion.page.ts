@@ -6,9 +6,9 @@ import { HttpClient, HttpErrorResponse, HttpHeaders, HttpParams } from '@angular
 
 
 @Component({
-  selector: 'app-consumos',
-  templateUrl: './consumos.page.html',
-  styleUrls: ['./consumos.page.scss'],
+  selector: 'app-administracion',
+  templateUrl: './administracion.page.html',
+  styleUrls: ['./administracion.page.scss'],
 })
 
 export class AdministracionPage implements OnInit {
