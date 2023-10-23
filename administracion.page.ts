@@ -11,7 +11,7 @@ import { HttpClient, HttpErrorResponse, HttpHeaders, HttpParams } from '@angular
   styleUrls: ['./administracion.page.scss'],
 })
 
-export class AdministracionPage implements OnInit {
+export class AdministracionPage {
  
  
   constructor() {}
